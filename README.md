@@ -1,7 +1,3 @@
 Hello World
 ______________
-Still a newbie, if this message is still here then it means I am currently busy with exams and midterms to edit my profile :(
-I will try to get back to as soon as possible.
-Hopefully this would look more professional when I done. :D
-Emojis are probably a bad idea for professionalism/professionallism? Wow no spell check.
-Hopefully I will be using this more often than I thought when I first made this.
+HELLO WORLDDDDDDDDDDDDDDDDDDDDDDDDD! This is great! I love learning new programs. If you have somehow stumbled onto my GitHub, then I must have peeked your interests. Currently I have only uploaded my class assignments, labs and notes, but I have some interesting ideas I hope to get started. I will start attending Hackathons and learn more things to make this repository much more abundant. Hopefully I can add some unique app designs to show off my programming skills. I will end my introduction here, however feel free to contact me at any time. I absolutely love meeting new people and engaging in interesting conversations about anything.
